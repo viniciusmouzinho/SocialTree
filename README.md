@@ -10,5 +10,4 @@ Neste desafio você deve criar uma página com uma lista de links que pode ser u
 - HTML
 - CSS
 
-## Layout
-![imagem-socialtree](https://user-images.githubusercontent.com/99989752/156910077-103ede5a-9150-459f-a37c-3f39ea8995c7.png)
+## Projeto: https://viniciusmouzinho.github.io/SocialTree/
